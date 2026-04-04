@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/* 背景設定 */
 body {
   margin: 0;
   background: url(image/back.jpg) center no-repeat fixed;
@@ -14,11 +15,13 @@ body {
   margin-top: 80px;
 }
 
+/* 写真設定 */
 .dog-photo {
   width: 180px;
   height: auto;
 }
 
+/* ボタン設定 */
 .btn {
   margin-top: 20px;
   padding: 8px 16px;
@@ -30,6 +33,7 @@ body {
   opacity: 0.8;
 }
 
+/* 結果表示 */
 .result {
   margin-top: 20px;
   font-size: 28px;
