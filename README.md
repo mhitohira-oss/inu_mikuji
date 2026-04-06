@@ -1,4 +1,4 @@
-##犬おみくじ
+## いぬみくじ
 
 JavaScriptの学習用に制作した、シンプルなWebアプリです。<br>
 ボタンを押すとランダムでおみくじ結果が表示され、犬の画像がぴょんぴょん跳ねるアニメーションを入れています。
@@ -18,7 +18,7 @@ https://mhitohira-oss.github.io/inu_mikuji/
 ⸻
 
 ## 使用技術
--HTML
+- HTML
 -CSS
 -JavaScript
 -GitHub
