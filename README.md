@@ -4,7 +4,7 @@ JavaScriptの学習用に制作した、シンプルなWebアプリです。<br>
  
 ## 公開URL
 https://mhitohira-oss.github.io/inu_mikuji/
-⸻
+
 ## 画面イメージ
 ※ 後でスクリーンショットを追加予定<br>
  
